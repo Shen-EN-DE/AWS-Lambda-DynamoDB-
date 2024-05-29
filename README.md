@@ -20,7 +20,6 @@
 3. API Gateway觸發Lambda函數，該函數從DynamoDB獲取數據。
 4. 數據返回給Lambda函數，然後透過API Gateway返回給Amplify。
 5. Amplify將寶可夢數據展示給用戶。
-   ```
 
 ## 使用說明
 
